@@ -209,6 +209,8 @@ My name is Victor Hugo. I am currently pursuing a degree in Computer Engineering
 
 <br/>
 <br/>
+<br>
+<br>
 
 ### 📊 Estatísticas
 
