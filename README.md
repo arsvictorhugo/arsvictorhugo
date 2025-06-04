@@ -5,8 +5,17 @@
 Me chamo Victor Hugo. Atualmente estou cursando Engenharia da Computação na Uerj. Sou Desenvolvedor Full-Stack, apaixonado por tecnologia e soluções inovadoras. 
 Tenho experiência prática em desenvolvimento web, atuando tanto no front-end quanto no back-end, e estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades.
 
+🔭 Atuo em uma empresa júnior como desenvolvedor front-end e back-end <br>
+💼 Aberto a oportunidades de freelas e projetos colaborativos<br>
+🎯 Objetivo: Continuar evoluindo como desenvolvedor full-stack<br>
 
+<br>
 My name is Victor Hugo. I am currently pursuing a degree in Computer Engineering at UERJ. I am a Full-Stack Developer, passionate about technology and innovative solutions. I have hands-on experience in web development, working on both front-end and back-end, and I am always seeking new challenges and opportunities to expand my skills.
+
+🔭 Currently working at a junior enterprise as a Front-end and Back-end Developer<br>
+💼 Open to freelance opportunities and collaborative projects<br>
+🎯 Goal: Keep evolving as a Full-Stack Developer<br>
+
 <p align="left">
   <a href="https://github.com/arsvictorhugo?tab=repositories">
         <img 
